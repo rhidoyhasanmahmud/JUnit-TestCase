@@ -1,0 +1,115 @@
+{
+  "status": 200,
+  "message": null,
+  "fieldErrors": null,
+  "generalErrors": null,
+  "data": {
+    "content": [
+      {
+        "oid": "6d5886ac-32a9-4445-a750-fee3f4a45fb7",
+        "createdBy": "3bfb0ffa-db36-4de1-8c16-f6f69e64bd38",
+        "status": "active",
+        "createdOn": 1613542260667,
+        "meetingTitle": "i am good meeting",
+        "meetingTypeOid": "9207e21c-77bb-4bd9-a53f-30852d086844",
+        "memorandumNumber": "adddd",
+        "meetingStatus": "meeting_created",
+        "projectOid": "task-ff80818176d16a090176d191ad2f0000",
+        "meetingVisibility": "protected",
+        "enothiReference": "adfd",
+        "meetingBackground": "adfdf",
+        "memberSecretaryOid": "da83d787-16f6-4878-a1ca-e5a0221b0606",
+        "chairpersonOid": "1b344f87-461e-4101-9ed0-0cc355294649",
+        "meetingSchedule": {
+          "oid": "86d94a32-ba43-4791-afbb-9fb2ff8285ef",
+          "createdBy": "3bfb0ffa-db36-4de1-8c16-f6f69e64bd38",
+          "status": "active",
+          "meetingOid": "6d5886ac-32a9-4445-a750-fee3f4a45fb7",
+          "meetingRoomOid": "613340d1-55ff-4f16-bdb8-94b6f2ebbd54",
+          "meetingStartTime": 1614038400000,
+          "meetingEndTime": 1614038400000,
+          "meetingDate": 1614016800000,
+          "roomBookingStatus": "booked",
+          "bookingFor": "meeting",
+          "metaData": "{\"meetingTitle\":\"i am good meeting\",\"memorandumNumber\":\"adddd\",\"meetingTypeOid\":\"9207e21c-77bb-4bd9-a53f-30852d086844\",\"enothiReference\":\"adfd\",\"meetingBackground\":\"adfdf\"}",
+          "room": {
+            "oid": "613340d1-55ff-4f16-bdb8-94b6f2ebbd54",
+            "createdBy": "efb93121-65dd-448c-a2e7-f466908f50f8",
+            "updatedBy": "3bfb0ffa-db36-4de1-8c16-f6f69e64bd38",
+            "status": "active",
+            "roomName": "বাংলাদেশ হাইটেক পার্ক কর্তৃপক্ষের সভাকক্ষ",
+            "floorNo": "লেভেল ৯",
+            "roomCapacity": 50,
+            "buildingOid": "2db34fd0-4407-4abf-a117-efef6862d928"
+          }
+        }
+      },
+      {
+        "oid": "9c8cee55-45c8-4db3-ae3c-bce6ce9d8eb4",
+        "createdBy": "3bfb0ffa-db36-4de1-8c16-f6f69e64bd38",
+        "status": "active",
+        "createdOn": 1613541989380,
+        "meetingTitle": "প্রকল্প বিশ্লেষণ মিটিং",
+        "meetingTypeOid": "9207e21c-77bb-4bd9-a53f-30852d086844",
+        "memorandumNumber": "adfd",
+        "meetingStatus": "meeting_created",
+        "projectOid": "task-ff80818176d16a090176d191ad2f0000",
+        "meetingVisibility": "protected",
+        "enothiReference": "afdf",
+        "meetingBackground": "adfdf",
+        "memberSecretaryOid": "191896b4-998f-4364-b6a1-94c84189639c",
+        "chairpersonOid": "b7380bbd-e776-4c8e-8152-2555b3ad8dba",
+        "meetingSchedule": {
+          "oid": "3f52c3fd-51c8-4872-ad88-5ab6cae23a22",
+          "createdBy": "3bfb0ffa-db36-4de1-8c16-f6f69e64bd38",
+          "status": "active",
+          "meetingOid": "9c8cee55-45c8-4db3-ae3c-bce6ce9d8eb4",
+          "meetingRoomOid": "88da6539-c614-402b-83a8-3d5e74aced9b",
+          "meetingStartTime": 1614125100000,
+          "meetingEndTime": 1614125100000,
+          "meetingDate": 1614103200000,
+          "roomBookingStatus": "booked",
+          "bookingFor": "meeting",
+          "metaData": "{\"meetingTitle\":\"প্রকল্প বিশ্লেষণ মিটিং\",\"memorandumNumber\":\"adfd\",\"meetingTypeOid\":\"9207e21c-77bb-4bd9-a53f-30852d086844\",\"enothiReference\":\"afdf\",\"meetingBackground\":\"adfdf\"}",
+          "room": {
+            "oid": "88da6539-c614-402b-83a8-3d5e74aced9b",
+            "createdBy": "76ff0c7c-1853-40a2-8ffa-c4bc73918341",
+            "updatedBy": "3bfb0ffa-db36-4de1-8c16-f6f69e64bd38",
+            "status": "active",
+            "roomName": "সম্মেলন কক্ষ, সিএসই ডিপার্টমেন্ট",
+            "floorNo": "",
+            "roomCapacity": 30,
+            "buildingOid": "9fdf839a-aa4e-42d2-9a8f-16424010deb0"
+          }
+        }
+      }
+    ],
+    "pageable": {
+      "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+      },
+      "pageSize": 20,
+      "pageNumber": 0,
+      "offset": 0,
+      "unpaged": false,
+      "paged": true
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 2,
+    "first": true,
+    "sort": {
+      "sorted": false,
+      "unsorted": true,
+      "empty": true
+    },
+    "numberOfElements": 2,
+    "size": 20,
+    "number": 0,
+    "empty": false
+  },
+  "options": null,
+  "timestamp": 1614064471289
+}

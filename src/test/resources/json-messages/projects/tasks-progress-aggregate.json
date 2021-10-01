@@ -1,0 +1,157 @@
+[ {
+  "id" : "ff80818178206b630178218e7fea0010",
+  "title" : "লেক বোট",
+  "category" : "মূলধন ব্যয়",
+  "budget" : 4700000.0, "allocation" : 1400000.0, "release" : 4300000.0, "expense" : 1200000.0, "progressFin" : 0, "progressPhy" : 70
+}, {
+  "id" : "ff80818178308df8017830ebe51d0008",
+  "title" : "অবকাঠামো উন্নয়ন কাজসমূহ",
+  "category" : "নির্মাণ ও পূর্ত",
+  "budget" : 600000.0, "allocation" : 2200000.0, "release" : 5900000.0, "expense" : 2000000.0, "progressFin" : 0, "progressPhy" : 23
+}, {
+  "id" : "40288a8778b0bd2e0178b0ffef2b0000",
+  "title" : "আয়, লাভ, এবং মূলধন লাভের উপর অন্যান্য কর",
+  "category" : "রাজস্ব ব্যয়",
+  "allocation" : 1000000.0, "release" : 1000000.0, "progressFin" : 0, "progressPhy" : 0
+}, {
+  "id" : "ff8081817834d83101784408eae0000f",
+  "title" : "ফার্ণিচার ও ফিক্সার",
+  "category" : "মেরামত, সংরক্ষন ও পুর্নবাসন",
+  "budget" : 500000.0, "progressFin" : 0, "progressPhy" : 0
+}, {
+  "id" : "ff808181791208ed0179175a283d0001",
+  "title" : "অফিসারদের বেতন",
+  "category" : "রাজস্ব ব্যয়",
+  "budget" : 1.0E7, "progressFin" : 0, "progressPhy" : 0
+}, {
+  "id" : "4028b29078ca15db0178caa0bb560002",
+  "title" : "আয়, লাভ এবং মূলধন লাভের উপর কর",
+  "category" : "মূলধন ব্যয়",
+  "budget" : 600000.0, "progressFin" : 0, "progressPhy" : 0
+}, {
+  "id" : "ff808181789b873301789c4fd1ec0000",
+  "title" : "টেলিফোন ও টেলিপ্রিন্টার",
+  "category" : "সরবারহ ও সেবা",
+  "budget" : 300000.0, "progressFin" : 0, "progressPhy" : 0
+}, {
+  "id" : "4028b29078e91da80178f33004b30002",
+  "title" : "আয়, লাভ এবং মূলধন লাভের উপর কর",
+  "category" : "রাজস্ব ব্যয়",
+  "budget" : 200000.0, "progressFin" : 0, "progressPhy" : 0
+}, {
+  "id" : "4028b2907840684801784410d3d80001",
+  "title" : "কর্মচারী স্টক বিকল্পগুলি",
+  "category" : "নির্মাণ ও পূর্ত",
+  "budget" : 4.76E7, "progressFin" : 0, "progressPhy" : 0
+}, {
+  "id" : "ff80818178e8d1f80179081333970014",
+  "title" : "কর্মচারীদের বেতন ও উৎসব ভাতা",
+  "category" : "রাজস্ব ব্যয়",
+  "budget" : 1900000.0, "progressFin" : 0, "progressPhy" : 0
+}, {
+  "id" : "ff8081817820411b017820413b010000",
+  "title" : "ব্যক্তি দ্বারা প্রদেয়",
+  "category" : "সরবারহ ও সেবা",
+  "release" : 3.434E8, "progressFin" : 0, "progressPhy" : 0
+}, {
+  "id" : "4028b29078a10c790178a778a6a20011",
+  "title" : "নেট সম্পদ উপর বার বার কর",
+  "category" : "মেরামত, সংরক্ষন ও পুর্নবাসন",
+  "budget" : 300000.0, "allocation" : 300000.0, "progressFin" : 0, "progressPhy" : 0
+}, {
+  "id" : "ff80818178308df8017830db4df80005",
+  "title" : "মালামাল ক্রয়",
+  "category" : "মেরামত, সংরক্ষন ও পুর্নবাসন",
+  "expense" : 1.35E7, "progressFin" : 0, "progressPhy" : 34
+}, {
+  "id" : "ff8081817834d831017843fa9aaa000d",
+  "title" : "যানবাহন",
+  "category" : "মেরামত, সংরক্ষন ও পুর্নবাসন",
+  "budget" : 500000.0, "progressFin" : 0, "progressPhy" : 33
+}, {
+  "id" : "ff80818178206b630178217d442a000e",
+  "title" : "অফিসারদের বেতন",
+  "category" : "রাজস্ব ব্যয়",
+  "budget" : 1.25E7, "progressFin" : 0, "progressPhy" : 0
+}, {
+  "id" : "ff8081817825b2c501782f8df9880000",
+  "title" : "উৎসব ভাতা",
+  "category" : "রাজস্ব ব্যয়",
+  "budget" : 2000000.0, "allocation" : 1700000.0, "release" : 2000000.0, "expense" : 5.2E7, "progressFin" : 0, "progressPhy" : 0
+}, {
+  "id" : "ff80818178308df8017830d081d90003",
+  "title" : "ফিজিক্যাল কনটিজেন্সি fdfd",
+  "category" : "ফিজিক্যাল কনটিজেন্সি",
+  "budget" : 3.0E8, "expense" : 1.6E8, "progressFin" : 0, "progressPhy" : 0
+}, {
+  "id" : "ff8081817864add9017887db85a40013",
+  "title" : "আয়, লাভ এবং মূলধন লাভের উপর কর",
+  "category" : "সরবারহ ও সেবা",
+  "budget" : 4.84E8, "progressFin" : 0, "progressPhy" : 0
+}, {
+  "id" : "ff8081817864add901788820096d0015",
+  "title" : "টেবিল ও বেঞ্চ ক্রয়",
+  "budget" : 200000.0, "progressFin" : 0, "progressPhy" : 42
+}, {
+  "id" : "ff8081817834d831017839d7714e0006",
+  "title" : "বদলি জনিত ব্যয়",
+  "category" : "রাজস্ব ব্যয়",
+  "budget" : 200000.0, "progressFin" : 0, "progressPhy" : 0
+}, {
+  "id" : "ff80818178206b630178212a20e8000a",
+  "title" : "লেক উন্নয়ন কাজসমূহ",
+  "category" : "নির্মাণ ও পূর্ত",
+  "budget" : 5.586E8, "release" : 2000000.0, "expense" : 1500000.0, "progressFin" : 0, "progressPhy" : 0
+}, {
+  "id" : "ff808181791208ed0179175cd8900003",
+  "title" : "বেতন",
+  "category" : "রাজস্ব ব্যয়",
+  "budget" : 5000000.0, "progressFin" : 0, "progressPhy" : 0
+}, {
+  "id" : "4028b29078e91da80178f3320daf0004",
+  "title" : "erqw",
+  "category" : "রাজস্ব ব্যয়",
+  "budget" : 1100000.0, "progressFin" : 0, "progressPhy" : 0
+}, {
+  "id" : "ff8081817853de140178543dc8ad0006",
+  "title" : "সংস্থাগুলি দ্বারা প্রদেয় অগ্রিম আয়কর",
+  "category" : "রাজস্ব ব্যয়",
+  "budget" : 3600000.0,
+  "progressFin" : 0,
+  "progressPhy" : 0
+}, {
+  "id" : "ff80818178206b6301782124f8ba0008",
+  "title" : "কম্পিউটার, ল্যাপটোপ ও ফটোকপি মেশিন ক্রয়",
+  "category" : "মূলধন ব্যয়",
+  "budget" : 4200000.0,
+  "progressFin" : 0,
+  "progressPhy" : 100
+}, {
+  "id" : "ff80818178e8d1f80178f32cfb8b0012",
+  "title" : "অফিসারদের বেতন",
+  "category" : "রাজস্ব ব্যয়",
+  "budget" : 7191000.0,
+  "progressFin" : 0,
+  "progressPhy" : 0
+}, {
+  "id" : "4028b29078a10c790178a6083f24000d",
+  "title" : "কর",
+  "category" : "রাজস্ব ব্যয়",
+  "budget" : 4.63E7,
+  "progressFin" : 0,
+  "progressPhy" : 0
+}, {
+  "id" : "ff8081817834d831017843ebc542000a",
+  "title" : "নববর্ষ ভাতা",
+  "category" : "রাজস্ব ব্যয়",
+  "budget" : 300000.0,
+  "progressFin" : 0,
+  "progressPhy" : 0
+}, {
+  "id" : "ff80818178206b6301782175180d000c",
+  "title" : "অফিস ফার্ণিচার",
+  "category" : "মূলধন ব্যয়",
+  "budget" : 2.41E7,
+  "progressFin" : 0,
+  "progressPhy" : 0
+} ]

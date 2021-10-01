@@ -1,0 +1,24 @@
+[
+  {
+    "status":200,
+    "message":null,
+    "fieldErrors":null,
+    "generalErrors":null,
+    "options":null,
+    "timestamp":1609654408074,
+    "data":[
+      {
+        "oid":"c077981c-c470-4b9f-ba8e-677960b6eb19",
+        "createdBy":"3bfb0ffa-db36-4de1-8c16-f6f69e64bd38",
+        "status":"active",
+        "updatedOn":1609654408071,
+        "attachmentType":"background_wp",
+        "meetingOid":"c7919810-de5a-44b2-8d4f-1ac6bbeec83b",
+        "fileTitle":"Resume_Abdur Rahim Nishad.pdf",
+        "fileOid":"f4e7a6e6-2a59-4c65-b472-fad336a0c3eb",
+        "filePath":"http://file-management-cmn.global.staging.grp.gov.bd:8080/cmn-service-file-management/api/v1/downloadFile",
+        "fileType":"pdf"
+      }
+    ]
+  }
+]

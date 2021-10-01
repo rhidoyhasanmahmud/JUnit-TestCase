@@ -1,0 +1,225 @@
+[
+	{
+		"_comment_request_url_": "/offices/710c3d47-63a6-469d-90a6-f2c33c81f086/employees",
+		"id": "d000aa1f-8f16-4207-886e-9142fb921a49",
+		"name": "মোঃ আসাদুল্লাহ হিল গালিব",
+		"nameEn": "Md. Asadullah hil Galib",
+		"email": "galib@cokreates.com",
+		"mobile": "01729831782",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"officeUnit": "মডিউল সাপোর্ট শাখা",
+		"officeUnitPost": "সাপোর্ট ইঞ্জিনিয়ার",
+		"employeeOfficeId": "e5062d2b-2148-4274-8998-84d5e797d9c6"
+	},
+	{
+		"id": "e0cd0abc-05e4-11ea-8d71-362b9e155667",
+		"name": "জনাব হোসনে আরা বেগম এনডিসি",
+		"nameEn": "Hosne Ara Begum ndc",
+		"email": "hosneara@bhtpa.gov.bd",
+		"mobile": "880",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"officeUnit": "কার্যনিরবাহী শাখা",
+		"officeUnitPost": "ব্যবস্থাপনা পরিচালক",
+		"employeeOfficeId": "c489da2d-5c89-47ee-8d62-cf296e802ecf"
+	},
+	{
+		"id": "87ae2398-05e5-11ea-8d71-362b9e155667",
+		"name": "জনাব মোঃ শফিক উদ্দীন ভুঁইয়া",
+		"nameEn": "Md. Shofique Uddin Bhuyan",
+		"email": "shofique@bhtpa.gov.bd",
+		"mobile": "8801914322575",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "fb774a4e-9914-4359-bbb5-d3985aa33cb2"
+	},
+	{
+		"id": "87ae20d2-05e5-11ea-8d71-362b9e155667",
+		"name": "জনাব মোহাম্মদ আতিকুল ইসলাম",
+		"nameEn": "Engr. Mohammad Atiqul Islam",
+		"email": "atiqul@bhtpa.gov.bd",
+		"mobile": "8801712259696",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "ccebfa96-e1c9-459e-80a6-3966bd6734fa"
+	},
+	{
+		"id": "823bdd7e-05e0-11ea-8d71-362b9e155667",
+		"name": "জোহরা বেগম",
+		"nameEn": "Zohra Begum",
+		"email": "zohra6700@gmail.com",
+		"mobile": "8801715133667",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "7970ce08-5108-48ac-be7a-cfe47c522cf1"
+	},
+	{
+		"id": "823bda9a-05e0-11ea-8d71-362b9e155667",
+		"name": "নাসির উদ্দিন আহম্মেদ",
+		"nameEn": "Nasir Uddin Ahmmed",
+		"email": "nasir@bhtpa.gov.bd",
+		"mobile": "8801712931446",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "84485794-3242-4b05-b1e1-80760eba170c"
+	},
+	{
+		"id": "c0ce7a0c-ea82-11e9-81b4-2a2ae2dbcce4",
+		"name": "জনাব মোহাম্মদ আতিকুল ইসলাম",
+		"nameEn": "Engr. Mohammad Atiqul Islam",
+		"email": "atiqul@bhtpa.gov.bd",
+		"mobile": "+8801767264123",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "5fd8b718-fbc7-433f-94d6-a933ec8034ab"
+	},
+	{
+		"id": "c4160580-05db-11ea-8d71-362b9e155667",
+		"name": "জনাব ইমাম মেহেদী",
+		"nameEn": "Emam Mehedi",
+		"email": "mehedi@bhtpa.gov.bd",
+		"mobile": "8801753969403",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "7308813a-16e2-4420-ae9c-ad84cfdc8f8b"
+	},
+	{
+		"id": "c416045e-05db-11ea-8d71-362b9e155667",
+		"name": "জনাব মোঃ হাসান ইবনে শাহী",
+		"nameEn": "Md. Hasan Ibne Shahi",
+		"email": "shahi@bhtpa.gov.bd",
+		"mobile": "8801711849172",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "ceeae1bb-580b-476d-89db-90c289ea285e"
+	},
+	{
+		"id": "c4160332-05db-11ea-8d71-362b9e155667",
+		"name": "জনাব ওবায়েত হোসেন",
+		"nameEn": "Obayet Hossen",
+		"email": "obayet@bhtpa.gov.bd",
+		"mobile": "8801719574392",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "d6f8652f-ed06-4053-8cb5-704e650edf54"
+	},
+	{
+		"id": "c4160210-05db-11ea-8d71-362b9e155667",
+		"name": "জিবানূর-বিনতে-জহির",
+		"nameEn": "Gibanur-Binta-Jahir",
+		"email": "gibanur@bhtpa.gov.bd",
+		"mobile": "8801912463448",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "df3d5641-0f0b-4545-ba31-96be92fa3830"
+	},
+	{
+		"id": "c41600e4-05db-11ea-8d71-362b9e155667",
+		"name": "জনাব হাসান মারুফ পারভেজ",
+		"nameEn": "Hasan Marup Parbeg",
+		"email": "hasan@bhtpa.gov.bd",
+		"mobile": "8801717535300",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "d370b80a-6a23-4759-be37-ce277e26fc39"
+	},
+	{
+		"id": "c415ffae-05db-11ea-8d71-362b9e155667",
+		"name": "মোঃ মাহাবুল আলম",
+		"nameEn": "Md. Mahabul Alam",
+		"email": "mahabul@bhtpa.gov.bd",
+		"mobile": "8801719544128",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "de2c0a7f-aef2-42f1-a7e8-75fb4ba6e76c"
+	},
+	{
+		"id": "c415fe50-05db-11ea-8d71-362b9e155667",
+		"name": "জনাব ফিরোজ আহমেদ",
+		"nameEn": "Firoj Ahmed",
+		"email": "firoj@bhtpa.gov.bd",
+		"mobile": "8801917884840",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "68e3dc50-290c-4f0c-a249-851bcad1151f"
+	},
+	{
+		"id": "c415f734-05db-11ea-8d71-362b9e155667",
+		"name": "জনাব কল্যান কুমার সরকার",
+		"nameEn": "kalyan Kumar Sarkar",
+		"email": "kalyan@bhtpa.gov.bd",
+		"mobile": "880",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "a3c2c1ab-977f-47e1-b786-bdf29b3b50c6"
+	},
+	{
+		"id": "c415facc-05db-11ea-8d71-362b9e155667",
+		"name": "জনাব নরোত্তম পাল",
+		"nameEn": "Norottom Paul",
+		"email": "norottom@bhtpa.gov.bd",
+		"mobile": "8801717514806",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "50afa342-d5ca-4ab1-9636-e5a7c84edba5"
+	},
+	{
+		"id": "c415f982-05db-11ea-8d71-362b9e155667",
+		"name": "জনাব এস.এম. আল-মামুন",
+		"nameEn": "S.M. Al-Mamun",
+		"email": "mamun@bhtpa.gov.bd",
+		"mobile": "8801839679090",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "b28cb81b-5b0f-4d9b-a303-01e1448432a1"
+	},
+	{
+		"id": "d99f0a06-05df-11ea-8d71-362b9e155667",
+		"name": "ড. খন্দকার আজিজুল ইসলাম",
+		"nameEn": "Dr. Khandoker Azizul Islam",
+		"email": "azizul@bhtpa.gov.bd",
+		"mobile": "8801711707421",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "03b12be1-f24e-4f34-82b0-fb60d0f422e0"
+	},
+	{
+		"id": "e4446166-05e1-11ea-9a9f-362b9e155667",
+		"name": "খাদিজা আক্তার",
+		"nameEn": "Khadija Akther",
+		"email": "khadija@bhtpa.gov.bd",
+		"mobile": "8801682812545",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "68bf6443-8ae9-4fce-bbf3-c5273d755cdf"
+	},
+	{
+		"id": "e4446594-05e1-11ea-9a9f-362b9e155667",
+		"name": "মোঃ রেজওয়ান আলী",
+		"nameEn": "Md. Rajuan Ali",
+		"email": "aco@bhtpa.gov.bd",
+		"mobile": "8801718571598",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "e76ab5c2-d755-480c-a803-0d3137ef48f8"
+	},
+	{
+		"id": "e4446706-05e1-11ea-9a9f-362b9e155667",
+		"name": "জনাব মোঃ গোলাম কিবরিয়া",
+		"nameEn": "Md. Golam Kibria",
+		"email": "pro@bhtpa.gov.bd",
+		"mobile": "8801738346458",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "3d72ed0c-6876-4b74-aa89-0cca0fcde07b"
+	},
+	{
+		"id": "e4446832-05e1-11ea-9a9f-362b9e155667",
+		"name": "জনাব হিরণ বড়ুয়া অভি",
+		"nameEn": "Hiran Barua Avi",
+		"email": "hiran@bhtpa.gov.bd",
+		"mobile": "8801717920376",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "ccd85ce3-5264-4856-9724-f67ad8858d9f"
+	},
+	{
+		"id": "942b14de-05e3-11ea-8d71-362b9e155667",
+		"name": "ফাহমিদা আখতার",
+		"nameEn": "Fahmida Akhtar",
+		"email": "d.tech@bhtpa.gov.bd",
+		"mobile": "8801775225198",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"employeeOfficeId": "6f53fc7d-2e93-438a-9b01-60140a91aad3"
+	},
+	{
+		"id": "8cf5b157-abd3-40db-9ec7-21eadfc977c5",
+		"name": "জনাব ফাহমিদা আক্তার",
+		"nameEn": "Fahmida Akhtar",
+		"email": "afahmida@yahoo.com",
+		"mobile": "01775225198",
+		"office": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+		"officeUnit": "টেকনিক্যাল",
+		"officeUnitPost": "পরিচালক",
+		"employeeOfficeId": "f1452544-4ce5-4213-86a9-599a7f8f06bb"
+	}
+]

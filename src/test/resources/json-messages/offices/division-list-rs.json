@@ -1,0 +1,108 @@
+[
+  {
+    "id": "710c3d47-63a6-469d-90a6-f2c33c81f083",
+    "name": "পরিকল্পনা বিভাগ",
+    "layer": "বিভাগ",
+    "address": "বেগম রোকেয়া সরণী, ঢাকা, বাংলাদেশ",
+    "nameEn": "Planning Division",
+    "layerEn": "Division"
+  },
+  {
+    "id": "9927705a-09ed-11ea-8d71-362b9e155667",
+    "name": "DEL জাতীয় পরিকল্পনা ও উন্নয়ন একাডেমি",
+    "layer": "বিভাগ",
+    "address": "National Academy for Planning and Development",
+    "nameEn": "DEL National Academy for Planning and Development",
+    "layerEn": "Division"
+  },
+  {
+    "id": "710c3d47-63a6-469d-90a6-f2c33c81f078",
+    "name": "ডাক ও টেলিযোগাযোগ বিভাগ",
+    "layer": "বিভাগ",
+    "address": "আইসিটি টাওয়ার, আগারগাঁও, শেরেবাংলা নগর, ঢাকা-১২০৭, বাংলাদেশ",
+    "nameEn": "Posts and Telecommunications Division",
+    "layerEn": "Division"
+  },
+  {
+    "id": "710c3d47-63a6-469d-90a6-f2c33c81f084",
+    "name": "পরিসংখ্যান ও তথ্য ব্যবস্থাপনা বিভাগ",
+    "layer": "বিভাগ",
+    "address": "ই-২৭/এ, আগারগাঁও, ঢাকা-১২০৭, বাংলাদেশ",
+    "nameEn": "Statistics and Informatics Division",
+    "layerEn": "Division"
+  },
+  {
+    "id": "710c3d47-63a6-469d-90a6-f2c33c81f085",
+    "name": "বাস্তবায়ন পরিবীক্ষণ ও মূল্যায়ন বিভাগ",
+    "layer": "বিভাগ",
+    "address": "আইসিটি টাওয়ার, আগারগাঁও, শেরেবাংলা নগর, ঢাকা-১২০৭, বাংলাদেশ",
+    "nameEn": "Implementation Monitoring & Evaluation Division",
+    "layerEn": "Division"
+  },
+  {
+    "id": "b6461d3b-8b44-48ef-a59b-a03c858ebc52",
+    "name": "testing",
+    "layer": "বিভাগ",
+    "nameEn": "testing",
+    "layerEn": "Division"
+  },
+  {
+    "id": "429524cf-3283-49c6-9c2a-f1da9106bf1a",
+    "name": "test3",
+    "layer": "বিভাগ",
+    "nameEn": "test3",
+    "layerEn": "Division"
+  },
+  {
+    "id": "12ba841e-c2f7-4bcc-adf1-e69f71046c12",
+    "name": "test5",
+    "layer": "বিভাগ",
+    "nameEn": "test5",
+    "layerEn": "Division"
+  },
+  {
+    "id": "b169d51a-0a81-11ea-8d71-362b9e155667",
+    "name": "DEL বাংলাদেশ উন্নয়ন গবেষণা প্রতিষ্ঠান",
+    "layer": "বিভাগ",
+    "address": "ই-১৭ আগারগাঁও, শের-এ- বাংলা নগর, ঢাকা-১২০৭, বাংলাদেশ",
+    "nameEn": "DEL Bangladesh Institute of Development Studies",
+    "layerEn": "Division"
+  },
+  {
+    "id": "164aafb5-f1b5-4a07-80b0-1747777687af",
+    "name": "child of test office new",
+    "layer": "বিভাগ",
+    "nameEn": "child of test office new",
+    "layerEn": "Division"
+  },
+  {
+    "id": "cc610ee4-bbfe-49a4-8b1a-e88e6afb7372",
+    "name": "test4",
+    "layer": "বিভাগ",
+    "nameEn": "test4",
+    "layerEn": "Division"
+  },
+  {
+    "id": "9e89af2a-6d1f-4315-9552-21eada486a10",
+    "name": "test2",
+    "layer": "বিভাগ",
+    "nameEn": "test2",
+    "layerEn": "Division"
+  },
+  {
+    "id": "733b7e8c-0afa-11ea-8d71-362b9e155667",
+    "name": "তথ্য ও যোগাযোগ প্রযুক্তি অধিদপ্তর",
+    "layer": "বিভাগ",
+    "address": "আইসিটি টাওয়ার (১০ম তলা) আগারগাঁও, শের-ই-বাংলা নগর, ঢাকা-১২০৭, বাংলাদেশ",
+    "nameEn": "Department of Information and Communication Technology",
+    "layerEn": "Division"
+  },
+  {
+    "id": "710c3d47-63a6-469d-90a6-f2c33c81f079",
+    "name": "তথ্য ও যোগাযোগ প্রযুক্তি বিভাগ",
+    "layer": "বিভাগ",
+    "address": "আইসিটি টাওয়ার (৫ম তলা) আগারগাঁও, শের-ই-বাংলা নগর, ঢাকা-১২০৭, বাংলাদেশ",
+    "nameEn": "ICT Division",
+    "layerEn": "Division"
+  }
+]

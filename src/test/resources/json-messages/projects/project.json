@@ -1,0 +1,56 @@
+{
+  "id": "ff808181776cf73d01776cf746dd0000",
+  "name": "ফরিদপুর শহরের টেপাখোলা লেক উন্নয়ন প্রকল্প",
+  "office": "ফরিদপুর শহরের টেপাখোলা লেক উন্নয়ন প্রকল্প কার্যালয়",
+  "projectDirector": "ফাহমিদা আক্তার",
+  "cost": 2106100000,
+  "initiatorOffice": [ "Ministry of Local Government, Rural Development & Co-operatives", "স্থানীয় সরকার বিভাগ" ],
+  "implementingAgency": [ "স্থানীয় সরকার প্রকৌশল অধিদপ্তর (এলজিইডি)", "ফরিদপুর জেলা পরিষদ" ],
+  "planningCommission": "ভৌত-অবকাঠামো বিভাগ",
+  "objective": "- পৌরবাসীর বিনোদনের অধিকতর সুযোগ সৃষ্টি করা;\n- কর্মসংস্থান বৃদ্ধির মাধ্যমে দারিদ্রতা হ্রাস করণ;",
+  "officeId": "710c3d47-63a6-469d-90a6-f2c33c81f082",
+  "projectDirectorEmpId": "8cf5b157-abd3-40db-9ec7-21eadfc977c5",
+  "startDate": "2019-01-01",
+  "finishDate": "2022-06-30",
+  "archived": false,
+  "createDate": "2021-02-04T18:14:40.861",
+  "updateDate": "2021-02-04T18:14:40.99",
+  "version": 1,
+  "tags": [],
+  "fundOverview": { "id": "ff808181776cf73d01776cf746f60010", "type": "project", "total": 2106100000, "gob": 2106100000 },
+  "fundBySource": {
+    "GRANTS": {
+      "id": "ff808181776cf73d01776cf746f50002",
+      "type": "project",
+      "total": 2106100000,
+      "gob": 2106100000,
+      "source": "GRANTS"
+    }
+  },
+  "fundByYear": {
+    "2018": {
+      "id": "ff808181776cf73d01776cf746f60003",
+      "type": "project",
+      "total": 1123807000,
+      "gob": 1123807000,
+      "startYear": "2018",
+      "endYear": "2019"
+    },
+    "2019": {
+      "id": "ff808181776cf73d01776cf746f60004",
+      "type": "project",
+      "total": 441839000,
+      "gob": 441839000,
+      "startYear": "2019",
+      "endYear": "2020"
+    },
+    "2020": {
+      "id": "ff808181776cf73d01776cf746f70005",
+      "type": "project",
+      "total": 86352000,
+      "gob": 86352000,
+      "startYear": "2020",
+      "endYear": "2021"
+    }
+  }
+}

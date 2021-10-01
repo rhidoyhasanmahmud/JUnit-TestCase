@@ -1,0 +1,12 @@
+{
+  "id" : 5,
+  "name" : "role_super_super_admin",
+  "title" : "সুপার সুপার প্রশাসক",
+  "privileges" : [
+	{ "id" : 1, "name" : "can_create_article", "title" : "নতুন অনুচ্ছেদ" },
+    { "id" : 2, "name" : "can_create_task", "title" : "নতুন কাজ" },
+    { "id" : 3, "name" : "can_edit_project", "title" : "প্রকল্প হালনাগাদ" }
+  ],
+  "version" : 0,
+  "updateDate" : "2021-02-08T14:16:12.872"
+}

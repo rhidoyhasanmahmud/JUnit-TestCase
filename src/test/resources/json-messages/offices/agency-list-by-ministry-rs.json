@@ -1,0 +1,66 @@
+[
+  {
+    "id": "710c3d47-63a6-469d-90a6-f2c33c81f080",
+    "name": "বাংলাদেশ কম্পিউটার কাউন্সিল (বিসিসি)",
+    "layer": "কাউন্সিল",
+    "address": "আইসিটি টাওয়ার, আগারগাঁও, শেরেবাংলা নগর, ঢাকা-১২০৭, বাংলাদেশ",
+    "nameEn": "Bangladesh Computer Council (BCC)",
+    "layerEn": "Council"
+  },
+  {
+    "id": "3f11e5b7-3bf8-4f15-ba3d-b7f4bde23ed7",
+    "name": "ডাক অধিদপ্তর, বাংলাদেশ ডাক বিভাগ",
+    "layer": "অধিদপ্তর/পরিদপ্তর",
+    "address": "Tejgoan,Dhaka",
+    "nameEn": "Department of Post",
+    "layerEn": "Directorate"
+  },
+  {
+    "id": "69d296e6-3fff-491f-a88c-b6cc012a02cd",
+    "name": "টেলিযোগাযোগ অধিদপ্তর",
+    "layer": "অধিদপ্তর/পরিদপ্তর",
+    "address": "423-428, Tejgaon Shilpo Elaka, Dhaka ",
+    "nameEn": "Department of Telecommunication ",
+    "layerEn": "Directorate"
+  },
+  {
+    "id": "710c3d47-63a6-469d-90a6-f2c33c81f086",
+    "name": "বাংলাদেশ হাই-টেক পার্ক কর্তৃপক্ষ",
+    "layer": "কতৃপক্ষ/অথোরিটি",
+    "address": "আইসিটি টাওয়ার (১০ম তলা), ই-১৪/এক্স, আগারগাও, ঢাকা-১২০৭, বাংলাদেশ",
+    "nameEn": "Bangladesh Hi-Tech Park Authority",
+    "layerEn": "Authority"
+  },
+  {
+    "id": "710c3d47-63a6-469d-90a6-f2c33c81f087",
+    "name": "বাংলাদেশ টেলিযোগাযোগ নিয়ন্ত্রণ কমিশন",
+    "layer": "কমিশন",
+    "address": "আইইবি ভবন (৫ম,৬ষ্ট ও ৭ম তলা), রমনা, ঢাকা-১০০০, বাংলাদেশ",
+    "nameEn": "Bangladesh Telecommunication Regulatory Commission",
+    "layerEn": "Commission"
+  },
+  {
+    "id": "9fc860ea-fbb0-11e9-8f0b-362b9e155667",
+    "name": "কন্ট্রোলার অব সার্টিফাইং অথরিটিজ ",
+    "layer": "কতৃপক্ষ/অথোরিটি",
+    "address": "আইসিটি টাওয়ার, আগারগাঁও, শেরেবাংলা নগর, ঢাকা-১২০৭, বাংলাদেশ",
+    "nameEn": "Office of the Controller of Certifying Authorities",
+    "layerEn": "Authority"
+  },
+  {
+    "id": "401249df-8d0b-43f2-80c7-7bf65d393dce",
+    "name": "ডাক অধিদপ্তর",
+    "layer": "অধিদপ্তর/পরিদপ্তর",
+    "address": "Agargoan ,Dhaka",
+    "nameEn": "Directorate Of Posts ",
+    "layerEn": "Directorate"
+  },
+  {
+    "id": "45d94a58-612b-45c5-81ce-fa3521451cb9",
+    "name": "বাংলাদেশ টেলিকমিউনিকেশনস কোম্পানি লিমিটেড",
+    "layer": "কোম্পানি",
+    "address": "Telejogajog Bhaban, 37/E, Eskaton Garden Dkaka-1000, Bangladesh",
+    "nameEn": "Bangladesh Telecommunication Company Limited",
+    "layerEn": "Company"
+  }
+]

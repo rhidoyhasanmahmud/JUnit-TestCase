@@ -1,0 +1,172 @@
+{
+  "empList": [
+    {
+      "oid": "d000aa1f-8f16-4207-886e-9142fb921a49",
+      "nameEn": "Md. Asadullah hil Galib",
+      "nameBn": "মোঃ আসাদুল্লাহ হিল গালিব",
+      "officeUnitPostNameEn": "Support Engineer",
+      "officeUnitPostNameBn": "সাপোর্ট ইঞ্জিনিয়ার"
+    },
+    {
+      "oid": "e0cd0abc-05e4-11ea-8d71-362b9e155667",
+      "nameEn": "Hosne Ara Begum ndc",
+      "nameBn": "জনাব হোসনে আরা বেগম এনডিসি",
+      "officeUnitPostNameEn": "Managing Director",
+      "officeUnitPostNameBn": "ব্যবস্থাপনা পরিচালক"
+    },
+    {
+      "oid": "87ae2398-05e5-11ea-8d71-362b9e155667",
+      "nameEn": "Md. Shofique Uddin Bhuyan",
+      "nameBn": "জনাব মোঃ শফিক উদ্দীন ভুঁইয়া",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "87ae20d2-05e5-11ea-8d71-362b9e155667",
+      "nameEn": "Engr. Mohammad Atiqul Islam",
+      "nameBn": "জনাব মোহাম্মদ আতিকুল ইসলাম",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "823bdd7e-05e0-11ea-8d71-362b9e155667",
+      "nameEn": "Zohra Begum",
+      "nameBn": "জোহরা বেগম",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "823bda9a-05e0-11ea-8d71-362b9e155667",
+      "nameEn": "Nasir Uddin Ahmmed",
+      "nameBn": "নাসির উদ্দিন আহম্মেদ",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "c0ce7a0c-ea82-11e9-81b4-2a2ae2dbcce4",
+      "nameEn": "Engr. Mohammad Atiqul Islam",
+      "nameBn": "জনাব মোহাম্মদ আতিকুল ইসলাম",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "c4160580-05db-11ea-8d71-362b9e155667",
+      "nameEn": "Emam Mehedi",
+      "nameBn": "জনাব ইমাম মেহেদী",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "c416045e-05db-11ea-8d71-362b9e155667",
+      "nameEn": "Md. Hasan Ibne Shahi",
+      "nameBn": "জনাব মোঃ হাসান ইবনে শাহী",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "c4160332-05db-11ea-8d71-362b9e155667",
+      "nameEn": "Obayet Hossen",
+      "nameBn": "জনাব ওবায়েত হোসেন",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "c4160210-05db-11ea-8d71-362b9e155667",
+      "nameEn": "Gibanur-Binta-Jahir",
+      "nameBn": "জিবানূর-বিনতে-জহির",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "c41600e4-05db-11ea-8d71-362b9e155667",
+      "nameEn": "Hasan Marup Parbeg",
+      "nameBn": "জনাব হাসান মারুফ পারভেজ",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "c415ffae-05db-11ea-8d71-362b9e155667",
+      "nameEn": "Md. Mahabul Alam",
+      "nameBn": "মোঃ মাহাবুল আলম",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "c415fe50-05db-11ea-8d71-362b9e155667",
+      "nameEn": "Firoj Ahmed",
+      "nameBn": "জনাব ফিরোজ আহমেদ",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "c415f734-05db-11ea-8d71-362b9e155667",
+      "nameEn": "kalyan Kumar Sarkar",
+      "nameBn": "জনাব কল্যান কুমার সরকার",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "c415facc-05db-11ea-8d71-362b9e155667",
+      "nameEn": "Norottom Paul",
+      "nameBn": "জনাব নরোত্তম পাল",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "c415f982-05db-11ea-8d71-362b9e155667",
+      "nameEn": "S.M. Al-Mamun",
+      "nameBn": "জনাব এস.এম. আল-মামুন",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "d99f0a06-05df-11ea-8d71-362b9e155667",
+      "nameEn": "Dr. Khandoker Azizul Islam",
+      "nameBn": "ড. খন্দকার আজিজুল ইসলাম",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "e4446166-05e1-11ea-9a9f-362b9e155667",
+      "nameEn": "Khadija Akther",
+      "nameBn": "খাদিজা আক্তার",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "e4446594-05e1-11ea-9a9f-362b9e155667",
+      "nameEn": "Md. Rajuan Ali",
+      "nameBn": "মোঃ রেজওয়ান আলী",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "e4446706-05e1-11ea-9a9f-362b9e155667",
+      "nameEn": "Md. Golam Kibria",
+      "nameBn": "জনাব মোঃ গোলাম কিবরিয়া",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "e4446832-05e1-11ea-9a9f-362b9e155667",
+      "nameEn": "Hiran Barua Avi",
+      "nameBn": "জনাব হিরণ বড়ুয়া অভি",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "942b14de-05e3-11ea-8d71-362b9e155667",
+      "nameEn": "Fahmida Akhtar",
+      "nameBn": "ফাহমিদা আখতার",
+      "officeUnitPostNameEn": null,
+      "officeUnitPostNameBn": null
+    },
+    {
+      "oid": "8cf5b157-abd3-40db-9ec7-21eadfc977c5",
+      "nameEn": "Fahmida Akhtar",
+      "nameBn": "জনাব ফাহমিদা আক্তার",
+      "officeUnitPostNameEn": "Director",
+      "officeUnitPostNameBn": "পরিচালক"
+    }
+  ]
+}

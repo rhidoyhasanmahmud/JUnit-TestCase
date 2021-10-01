@@ -1,0 +1,156 @@
+[
+  {
+    "name": "বিভাগ",
+    "nameBn": "বিভাগ",
+    "nameEn": "Division",
+    "sortOrder": 1,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f040"
+  },
+  {
+    "name": "অধিদপ্তর/পরিদপ্তর",
+    "nameBn": "অধিদপ্তর/পরিদপ্তর",
+    "nameEn": "Directorate",
+    "sortOrder": 2,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f041"
+  },
+  {
+    "name": "বিভাগীয় কার্যালয়",
+    "nameBn": "বিভাগীয় কার্যালয়",
+    "nameEn": "Divisional Office",
+    "sortOrder": 3,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f042"
+  },
+  {
+    "name": "আঞ্চলিক কার্যালয়",
+    "nameBn": "আঞ্চলিক কার্যালয়",
+    "nameEn": "Regional Office",
+    "sortOrder": 4,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f043"
+  },
+  {
+    "name": "জেলা পর্যায়ের কার্যালয়",
+    "nameBn": "জেলা পর্যায়ের কার্যালয়",
+    "nameEn": "District Office",
+    "sortOrder": 5,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f044"
+  },
+  {
+    "name": "উপজেলা পর্যায়ের কার্যালয়",
+    "nameBn": "উপজেলা পর্যায়ের কার্যালয়",
+    "nameEn": "Upazilla Office",
+    "sortOrder": 6,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f045"
+  },
+  {
+    "name": "সেল",
+    "nameBn": "সেল",
+    "nameEn": "Cell",
+    "sortOrder": 7,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f046"
+  },
+  {
+    "name": "ইউনিট",
+    "nameBn": "ইউনিট",
+    "nameEn": "Unit",
+    "sortOrder": 8,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f047"
+  },
+  {
+    "name": "ইনস্টিটিউট",
+    "nameBn": "ইনস্টিটিউট",
+    "nameEn": "Institute",
+    "sortOrder": 9,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f048"
+  },
+  {
+    "name": "একাডেমি/ প্রশিক্ষণ কেন্দ্র",
+    "nameBn": "একাডেমি/ প্রশিক্ষণ কেন্দ্র",
+    "nameEn": "Academy/Training Institute",
+    "sortOrder": 10,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f049"
+  },
+  {
+    "name": "কমিশন",
+    "nameBn": "কমিশন",
+    "nameEn": "Commission",
+    "sortOrder": 11,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f050"
+  },
+  {
+    "name": "কতৃপক্ষ/অথোরিটি",
+    "nameBn": "কতৃপক্ষ/অথোরিটি",
+    "nameEn": "Authority",
+    "sortOrder": 12,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f051"
+  },
+  {
+    "name": "কর্পোরেশন",
+    "nameBn": "কর্পোরেশন",
+    "nameEn": "Corporation",
+    "sortOrder": 13,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f052"
+  },
+  {
+    "name": "কাউন্সিল",
+    "nameBn": "কাউন্সিল",
+    "nameEn": "Council",
+    "sortOrder": 14,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f053"
+  },
+  {
+    "name": "কোম্পানি",
+    "nameBn": "কোম্পানি",
+    "nameEn": "Company",
+    "sortOrder": 15,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f054"
+  },
+  {
+    "name": "প্রকল্প/প্রোগ্রাম",
+    "nameBn": "প্রকল্প/প্রোগ্রাম",
+    "nameEn": "Program",
+    "sortOrder": 16,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f055"
+  },
+  {
+    "name": "ফাউন্ডেশন",
+    "nameBn": "ফাউন্ডেশন",
+    "nameEn": "Foundation",
+    "sortOrder": 17,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f056"
+  },
+  {
+    "name": "বোর্ড",
+    "nameBn": "বোর্ড",
+    "nameEn": "Board",
+    "sortOrder": 18,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f057"
+  },
+  {
+    "name": "ব্যুরো",
+    "nameBn": "ব্যুরো",
+    "nameEn": "Beuro",
+    "sortOrder": 19,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f058"
+  },
+  {
+    "name": "সংস্থা",
+    "nameBn": "সংস্থা",
+    "nameEn": "Organization",
+    "sortOrder": 20,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f059"
+  },
+  {
+    "name": "ডামি",
+    "nameBn": "ডামি",
+    "nameEn": "dummy",
+    "sortOrder": 3,
+    "oid": "3811ad39-097c-4ce3-9f3e-22901b22d994"
+  },
+  {
+    "name": "মন্ত্রনালয়ের কার্যালয়",
+    "nameBn": "মন্ত্রনালয়ের কার্যালয়",
+    "nameEn": "Ministry",
+    "sortOrder": 0,
+    "oid": "710c3d47-63a6-469d-90a6-f2c33c81f039"
+  }
+]

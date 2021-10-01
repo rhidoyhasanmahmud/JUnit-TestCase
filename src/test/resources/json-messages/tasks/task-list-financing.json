@@ -1,0 +1,181 @@
+[
+  {
+    "id": "ff80818177ce95b00177ce95bb4a0006",
+    "title": "অফিসারদের বেতন",
+    "category": "রাজস্ব ব্যয়",
+    "economyCode": "৩১১০১",
+    "dpp": true,
+    "startDate": "2019-01-01",
+    "endDate": "2022-06-30",
+    "duration": "P3Y5M29D",
+    "archived": false,
+    "createDate": "2021-02-23T17:10:55.306",
+    "updateDate": "2021-02-23T17:10:55.306",
+    "version": 0,
+    "financing": []
+  },
+  {
+    "id": "ff80818177ce95b00177ce95bb580007",
+    "title": "ভ্রমণ ব্যয়",
+    "category": "সরবরাহ ও সেবা",
+    "economyCode": "৩২৪১১০১",
+    "dpp": true,
+    "startDate": "2019-01-01",
+    "endDate": "2022-06-30",
+    "duration": "P3Y5M29D",
+    "archived": false,
+    "createDate": "2021-02-23T17:10:55.32",
+    "updateDate": "2021-02-23T17:10:55.32",
+    "version": 0,
+    "financing": []
+  },
+  {
+    "id": "ff80818177ce95b00177ce95bb5a0008",
+    "title": "বৃক্ষ রোপন",
+    "category": "নির্মাণ ও পূর্ত",
+    "economyCode": "৪১১৩১০২",
+    "dpp": true,
+    "startDate": "2019-01-01",
+    "endDate": "2022-06-30",
+    "duration": "P3Y5M29D",
+    "archived": false,
+    "createDate": "2021-02-23T17:10:55.322",
+    "updateDate": "2021-02-23T17:10:55.322",
+    "version": 0,
+    "financing": [
+      {
+        "id": "ff80818177ce95b00177ce95bb3a0003",
+        "type": "task",
+        "total": 4900000,
+        "activityType": "Budget",
+        "unit": "থোক",
+        "percentage": 0.23
+      },
+      {
+        "id": "ff80818177ce95b00177ce95bb3b0004",
+        "type": "task",
+        "total": 4000000,
+        "activityType": "Allocation",
+        "unit": "টি",
+        "price": 400000,
+        "quantity": 10,
+        "startPeriod": "2021-01",
+        "endPeriod": "2021-03"
+      },
+      {
+        "id": "ff80818177ce95b00177ce95bb3d0005",
+        "type": "task",
+        "total": 4000000,
+        "activityType": "Release",
+        "unit": "টি",
+        "price": 400000,
+        "quantity": 10,
+        "startPeriod": "2021-01",
+        "endPeriod": "2021-03"
+      }
+    ]
+  },
+  {
+    "id": "ff80818177ce95b00177ce95bb5b0009",
+    "title": "অবকাঠামো উন্নয়ন কাজসমূহ",
+    "category": "নির্মাণ ও পূর্ত",
+    "economyCode": "৪১১১৩১৭",
+    "dpp": true,
+    "startDate": "2019-01-01",
+    "endDate": "2022-06-30",
+    "duration": "P3Y5M29D",
+    "archived": false,
+    "createDate": "2021-02-23T17:10:55.323",
+    "updateDate": "2021-02-23T17:10:55.323",
+    "version": 0,
+    "financing": [
+      {
+        "archived": true,
+        "archiveDate": "2021-02-23T17:10:55.595",
+        "createDate": "2021-02-23T17:10:55.268",
+        "updateDate": "2021-02-23T17:10:55.586",
+        "version": 2,
+        "id": "ff80818177ce95b00177ce95bb240000",
+        "type": "task",
+        "total": 119300000,
+        "activityType": "Budget",
+        "percentage": 56.94
+      }
+    ]
+  },
+  {
+    "id": "ff80818177ce95b00177ce95bb5c000a",
+    "title": "জমি অধিগ্রহণ",
+    "category": "মূলধন ব্যয়",
+    "economyCode": "৪১৪১১০১",
+    "dpp": true,
+    "startDate": "2019-01-01",
+    "endDate": "2022-06-30",
+    "duration": "P3Y5M29D",
+    "archived": false,
+    "createDate": "2021-02-23T17:10:55.324",
+    "updateDate": "2021-02-23T17:10:55.324",
+    "version": 0,
+    "financing": [
+      {
+        "id": "ff80818177ce95b00177ce95bb390001",
+        "type": "task",
+        "total": 19500000,
+        "activityType": "Budget",
+        "unit": "একর",
+        "price": 6500000,
+        "quantity": 3,
+        "percentage": 0.93,
+        "archived": false,
+        "createDate": "2021-02-23T17:10:55.289",
+        "updateDate": "2021-02-23T17:10:55.519",
+        "version": 1
+      }
+    ]
+  },
+  {
+    "id": "ff80818177ce95b00177ce95bb5c000b",
+    "title": "লেক বোট",
+    "category": "মূলধন ব্যয়",
+    "economyCode": "৪১১২১০",
+    "dpp": true,
+    "startDate": "2019-01-01",
+    "endDate": "2022-06-30",
+    "duration": "P3Y5M29D",
+    "archived": false,
+    "createDate": "2021-02-23T17:10:55.324",
+    "updateDate": "2021-02-23T17:10:55.324",
+    "version": 0,
+    "financing": [
+      {
+        "id": "ff80818177ce95b00177ce95bb3a0002",
+        "type": "task",
+        "total": 10000000,
+        "activityType": "Budget",
+        "unit": "টি",
+        "price": 400000,
+        "quantity": 25,
+        "percentage": 0.47,
+        "archived": false,
+        "createDate": "2021-02-23T17:10:55.29",
+        "updateDate": "2021-02-23T17:10:55.519",
+        "version": 1
+      }
+    ]
+  },
+  {
+    "id": "ff80818177ce95b00177ce95bb5d000c",
+    "title": "যানবাহন",
+    "category": "মেরামত, সংরক্ষণ ও পুনর্বাসন",
+    "economyCode": "৩২৫৮১০",
+    "dpp": true,
+    "startDate": "2019-01-01",
+    "endDate": "2022-06-30",
+    "duration": "P3Y5M29D",
+    "archived": false,
+    "createDate": "2021-02-23T17:10:55.325",
+    "updateDate": "2021-02-23T17:10:55.325",
+    "version": 0,
+    "financing": []
+  }
+]

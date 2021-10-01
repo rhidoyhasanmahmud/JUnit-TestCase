@@ -1,0 +1,41 @@
+[
+  {
+    "id": "710c3d47-63a6-469d-90a6-f2c33c81f082",
+    "name": "পরিকল্পনা মন্ত্রণালয়",
+    "layer": "মন্ত্রনালয়ের কার্যালয়",
+    "address": "শের-ই-বাংলা নগর, ঢাকা-১২০৭, বাংলাদেশ",
+    "nameEn": "Ministry of Planning",
+    "layerEn": "Ministry"
+  },
+  {
+    "id": "393fcd0f-1b2e-4440-bd74-f057e3378f35",
+    "name": "শিল্প মন্ত্রনালয় ",
+    "layer": "মন্ত্রনালয়ের কার্যালয়",
+    "address": "Dhaka",
+    "nameEn": "Ministry of Industries",
+    "layerEn": "Ministry"
+  },
+  {
+    "id": "6070f429-458f-413d-807a-936a2f9983f6",
+    "name": "Jhamela hoi na",
+    "layer": "মন্ত্রনালয়ের কার্যালয়",
+    "address": "Dhaka test office",
+    "nameEn": "Test Korlam to ",
+    "layerEn": "Ministry"
+  },
+  {
+    "id": "710c3d47-63a6-469d-90a6-f2c33c81f077",
+    "name": "ডাক, টেলিযোগাযোগ ও তথ্যপ্রযুক্তি মন্ত্রণালয়",
+    "layer": "মন্ত্রনালয়ের কার্যালয়",
+    "address": "আইসিটি টাওয়ার, আগারগাঁও, শেরেবাংলা নগর, ঢাকা-১২০৭, বাংলাদেশ",
+    "nameEn": "Ministry of Posts, Telecommunications and Information Technology",
+    "layerEn": "Ministry"
+  },
+  {
+    "id": "7d9ca22a-3d98-4097-922f-f47ed7a60c8a",
+    "name": "test",
+    "layer": "মন্ত্রনালয়ের কার্যালয়",
+    "nameEn": "test",
+    "layerEn": "Ministry"
+  }
+]

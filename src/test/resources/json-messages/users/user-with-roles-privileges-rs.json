@@ -1,0 +1,16 @@
+{
+	"id": "078e9725-903d-40de-ba73-1c00d6be7b36-admin",
+	"name": "ইমতিয়াজ রাহী",
+	"archived" : false,
+	"createDate" : "2021-02-08T14:23:40.209",
+	"updateDate" : "2021-02-08T14:23:40.221",
+	"version" : 1,
+	"roles": [
+		{ "id": 14, "name": "role_admin", "title": "মডিউল প্রশাসক",
+			"privileges": [
+				{ "id": 1, "name": "can_create_article", "title": "নতুন অনুচ্ছেদ" },
+				{ "id": 3, "name": "can_edit_project", "title": "প্রকল্প হালনাগাদ" }
+			]
+		}
+	]
+}

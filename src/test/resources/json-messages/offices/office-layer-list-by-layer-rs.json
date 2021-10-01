@@ -1,0 +1,36 @@
+[ {
+  "id" : "3d79030b-b443-4575-8427-2d7ae88867dd",
+  "name" : "জাতীয় পরিকল্পনা ও উন্নয়ন একাডেমি (এনএপিডি)",
+  "layer" : "অধিদপ্তর/পরিদপ্তর",
+  "address" : "3/A, Nilkhet,Dhaka-1205",
+  "nameEn" : "National Academy for Planning and Development (NAPD)",
+  "layerEn" : "Directorate"
+}, {
+  "id" : "140e5ef6-e2f0-45b3-a8aa-76f990031f07",
+  "name" : "বাংলাদেশ উন্নয়ন গবেষণা প্রতিষ্ঠান",
+  "layer" : "অধিদপ্তর/পরিদপ্তর",
+  "address" : "E-17 Agargaon, Sher-e- Bangla Nagar, Dhaka-1207, Bangladesh",
+  "nameEn" : "Bangladesh Institute of Development Studies",
+  "layerEn" : "Directorate"
+}, {
+  "id" : "3f11e5b7-3bf8-4f15-ba3d-b7f4bde23ed7",
+  "name" : "ডাক অধিদপ্তর, বাংলাদেশ ডাক বিভাগ",
+  "layer" : "অধিদপ্তর/পরিদপ্তর",
+  "address" : "Tejgoan,Dhaka",
+  "nameEn" : "Department of Post",
+  "layerEn" : "Directorate"
+}, {
+  "id" : "69d296e6-3fff-491f-a88c-b6cc012a02cd",
+  "name" : "টেলিযোগাযোগ অধিদপ্তর",
+  "layer" : "অধিদপ্তর/পরিদপ্তর",
+  "address" : "423-428, Tejgaon Shilpo Elaka, Dhaka ",
+  "nameEn" : "Department of Telecommunication ",
+  "layerEn" : "Directorate"
+}, {
+  "id" : "401249df-8d0b-43f2-80c7-7bf65d393dce",
+  "name" : "ডাক অধিদপ্তর",
+  "layer" : "অধিদপ্তর/পরিদপ্তর",
+  "address" : "Agargoan ,Dhaka",
+  "nameEn" : "Directorate Of Posts ",
+  "layerEn" : "Directorate"
+} ]

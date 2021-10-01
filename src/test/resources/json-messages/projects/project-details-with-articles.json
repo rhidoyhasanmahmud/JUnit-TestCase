@@ -1,0 +1,43 @@
+{
+  "archived" : false,
+  "createDate" : "2021-02-18T13:23:05.316",
+  "updateDate" : "2021-02-18T13:23:05.446",
+  "version" : 1,
+  "id" : "ff80818177b4054e0177b40558e40000",
+  "name" : "ফরিদপুর শহরের টেপাখোলা লেক উন্নয়ন প্রকল্প",
+  "office" : "ফরিদপুর শহরের টেপাখোলা লেক উন্নয়ন প্রকল্প কার্যালয়",
+  "projectDirector" : "ফাহমিদা আক্তার",
+  "initiatorOffice" : [ "Ministry of Local Government, Rural Development & Co-operatives", "স্থানীয় সরকার বিভাগ" ],
+  "implementingAgency" : [ "স্থানীয় সরকার প্রকৌশল অধিদপ্তর (এলজিইডি)", "ফরিদপুর জেলা পরিষদ" ],
+  "planningCommission" : "ভৌত-অবকাঠামো বিভাগ",
+  "objective" : "- পৌরবাসীর বিনোদনের অধিকতর সুযোগ সৃষ্টি করা;\n- কর্মসংস্থান বৃদ্ধির মাধ্যমে দারিদ্রতা হ্রাস করণ;",
+  "areas" : [ ],
+  "officeId" : "710c3d47-63a6-469d-90a6-f2c33c81f082",
+  "projectDirectorEmpId" : "8cf5b157-abd3-40db-9ec7-21eadfc977c5",
+  "startDate" : "2019-01-01",
+  "finishDate" : "2022-06-30",
+  "tags" : [ ],
+  "fundBySource" : { },
+  "fundByYear" : { },
+  "articles" : [ {
+    "archived" : true,
+    "archiveDate" : "2021-02-18T13:23:05.342",
+    "createDate" : "2021-02-18T13:23:05.345",
+    "updateDate" : "2021-02-18T13:23:05.345",
+    "version" : 0,
+    "id" : "ff80818177b4054e0177b40559010004",
+    "title" : "National Contingency Plan 2021",
+    "type" : "PLAN",
+    "state" : "Draft"
+  }, {
+    "archived" : false,
+    "createDate" : "2021-02-18T13:23:05.344",
+    "updateDate" : "2021-02-18T13:23:05.344",
+    "version" : 0,
+    "id" : "ff80818177b4054e0177b40559000003",
+    "title" : "জাতীয় কৃষি সম্প্রসারণ নীতি ২০২০",
+    "type" : "POLICY",
+    "body" : "https://moa.gov.bd/site/view/policies",
+    "state" : "Draft"
+  } ]
+}

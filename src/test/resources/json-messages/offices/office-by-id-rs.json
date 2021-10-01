@@ -1,0 +1,25 @@
+{
+	"name": "বাস্তবায়ন পরিবীক্ষণ ও মূল্যায়ন বিভাগ",
+	"nameBn": "বাস্তবায়ন পরিবীক্ষণ ও মূল্যায়ন বিভাগ",
+	"nameEn": "Implementation Monitoring & Evaluation Division",
+	"rootOffice": false,
+	"isRootOffice": "Yes",
+	"email": "-",
+	"codeBn": "-",
+	"codeEn": "-",
+	"status": "Active",
+	"sortOrder": 1,
+	"officeLayer": {
+		"name": "বিভাগ",
+		"nameBn": "বিভাগ",
+		"nameEn": "Division",
+		"isDeleted": "No",
+		"createdBy": "System",
+		"createdOn": "2020-01-02T18:04:17.346Z",
+		"sortOrder": 1,
+		"oid": "710c3d47-63a6-469d-90a6-f2c33c81f040"
+	},
+	"oid": "710c3d47-63a6-469d-90a6-f2c33c81f085",
+	"addressBn": "আইসিটি টাওয়ার, আগারগাঁও, শেরেবাংলা নগর, ঢাকা-১২০৭, বাংলাদেশ",
+	"web": "-"
+}
